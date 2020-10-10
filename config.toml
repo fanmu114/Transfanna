@@ -130,8 +130,8 @@ copyright = "Copyright &copy; 2020 TransFanna"
 
 ################################### French language #####################################
 [Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
+languageName = "Cn"
+languageCode = "zh-cn"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
