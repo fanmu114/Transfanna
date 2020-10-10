@@ -128,9 +128,19 @@ home = "Home"
 copyright = "Copyright &copy; 2020 TransFanna"
 
 
+################################### Chinese language #####################################
+[Languages.cn]
+languageName = "Cn"
+languageCode = "zh-cn"
+contentDir = "content/french"
+weight = 2
+home = "主页"
+# copyright
+copyright = "Copyright &copy; 2020 2020 TransFanna"
+
 ################################### French language #####################################
 [Languages.fr]
-languageName = "Cn"
+languageName = "Fr"
 languageCode = "zh-cn"
 contentDir = "content/french"
 weight = 2
