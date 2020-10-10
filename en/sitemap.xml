@@ -17,20 +17,6 @@
   </url>
   
   <url>
-    <loc>https://fanmu114.github.io/Transfanna/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fanmu114.github.io/Transfanna/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fanmu114.github.io/Transfanna/"
-                />
-  </url>
-  
-  <url>
     <loc>https://fanmu114.github.io/Transfanna/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,6 +27,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fanmu114.github.io/Transfanna/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://fanmu114.github.io/Transfanna/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fanmu114.github.io/Transfanna/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fanmu114.github.io/Transfanna/"
                 />
   </url>
   
