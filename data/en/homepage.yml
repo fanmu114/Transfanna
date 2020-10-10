@@ -71,20 +71,20 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
+    - name : "Translation"
       parcentage : "98%"
       
     # skill item loop
-    - name : "Graphic Design"
-      parcentage : "85%"
+    - name : "Interpretation"
+      parcentage : "95%"
       
     # skill item loop
-    - name : "Database Management"
+    - name : "Transcreation"
       parcentage : "90%"
       
     # skill item loop
-    - name : "Wordpress"
-      parcentage : "70%"
+    - name : "Copywriting"
+      parcentage : "80%"
 
 
 ################################### Service ##############################3
