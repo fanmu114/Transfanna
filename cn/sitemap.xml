@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fanmu114.github.io/Transfanna/fr/categories/</loc>
+    <loc>https://fanmu114.github.io/Transfanna/cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -11,18 +11,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="cn"
-                href="https://fanmu114.github.io/Transfanna/cn/categories/"
+                hreflang="fr"
+                href="https://fanmu114.github.io/Transfanna/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fanmu114.github.io/Transfanna/fr/categories/"
+                hreflang="cn"
+                href="https://fanmu114.github.io/Transfanna/cn/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://fanmu114.github.io/Transfanna/fr/tags/</loc>
+    <loc>https://fanmu114.github.io/Transfanna/cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,18 +30,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="cn"
-                href="https://fanmu114.github.io/Transfanna/cn/tags/"
+                hreflang="fr"
+                href="https://fanmu114.github.io/Transfanna/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fanmu114.github.io/Transfanna/fr/tags/"
+                hreflang="cn"
+                href="https://fanmu114.github.io/Transfanna/cn/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://fanmu114.github.io/Transfanna/fr/</loc>
+    <loc>https://fanmu114.github.io/Transfanna/cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,13 +49,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="cn"
-                href="https://fanmu114.github.io/Transfanna/cn/"
+                hreflang="fr"
+                href="https://fanmu114.github.io/Transfanna/fr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://fanmu114.github.io/Transfanna/fr/"
+                hreflang="cn"
+                href="https://fanmu114.github.io/Transfanna/cn/"
                 />
   </url>
   
