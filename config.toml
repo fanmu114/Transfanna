@@ -92,7 +92,7 @@ google_analitycs_id = "" # your id
 
 # Preloader
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
