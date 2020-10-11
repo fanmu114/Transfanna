@@ -6,7 +6,7 @@ hero:
   occupations:
     - "Freelance Translator"
     - "Interpreter"
-    - "Good Girl"
+    - "The person you can trust"
 
   # slider background image loop
   slider_image:
@@ -34,7 +34,15 @@ about:
   enable : true
   image : "images/backgrounds/Anna.jpeg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Zeling Ma, Professional Translator. XXX xxxx xxxx xxxx xxxx, XXX xxxx xxxx xxxx xxxx. I XXX xxxx xxxx xxxx xxxx, XXX xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx. i can help you to describe yourself in the best way.<br>No matter xxxx xxxx xxxx xxxx i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  content : "I am Zeling, a freelance translator who has worked as an English>Chinese Native translator for more than seven years. Graduating from Shanghai International Studies University, I hold a Master’s Degree in English Language and Literature (Subfield: Translation/Interpretation).
+  
+
+
+  Before becoming a freelancer, I worked in three industries— game development, fashion retail, and real estate development which helped me understand these industries by and large. Also, I have worked on many documents regarding business management, marketing, e-commerce, legal, financial, and IT/technology, etc.. 
+
+  
+  
+  Currently, I am a Pro translator (English<>Chinese) with Lionbridge Gengo."
   # button
   button:
     enable : true
@@ -43,7 +51,7 @@ about:
 
 ###########################3 Experience ##############################
 experience:
-  enable : true
+  enable : false
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
@@ -67,7 +75,7 @@ experience:
 
 ############################### Skill #################################
 skill:
-  enable : true
+  enable : false
   title : "SKILL"
   skill_list:
     # skill item loop
@@ -130,125 +138,110 @@ call_to_action:
 
 ############################# portfolio ################################
 portfolio:
-  enable : false
+  enable : true
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item1.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    - name : "Gengo"
+      image : "images/portfolio/gengo.png"
+      date : "Mar 2020"
+      category : "Platform"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item2.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    - name : "Smartcat"
+      image : "images/portfolio/smartcat.png"
+      date : "Apr 2020"
+      category : "Platform"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item3.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item4.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item5.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item6.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item7.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item8.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item9.jpg"
-      date : "Feb 2018"
-      category : "Database"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item10.jpg"
-      date : "Feb 2018"
-      category : "Database"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item11.jpg"
-      date : "Feb 2018"
-      category : "Database"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item12.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item13.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item14.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item15.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
+    - name : "WWDC 2020"
+      image : "images/portfolio/wwdc2020.jpg"
+      date : "July 2020"
+      category : "IT"
 
+    # portfolio item loop
+    - name : "Yongyou"
+      image : "images/portfolio/yongyou.png"
+      date : "Mar 2018"
+      category : "IT"
+      
+    # portfolio item loop
+    - name : "Monster <br> Dash"
+      image : "images/portfolio/monsterdash.jpg"
+      date : "Feb 2020"
+      category : "Games"
+      
+    # portfolio item loop
+    - name : "Texas <br> hold'em"
+      image : "images/portfolio/Texasholdem.jpeg"
+      date : "Mar 2015"
+      category : "Games"
+      
+    # portfolio item loop
+    - name : "Jetpack <br> Joyride"
+      image : "images/portfolio/JetpackJoyride.jpg"
+      date : "Feb 2019"
+      category : "Games"
+      
+    # portfolio item loop
+    - name : "Soul Seeker: <br> Six Knights"
+      image : "images/portfolio/SoulSeekerSixKnights.jpg"
+      date : "Feb 2018"
+      category : "Games"
+
+    # portfolio item loop
+    - name : "Fudan University Campus <br> in Budapest"
+      image : "images/portfolio/fudan.png"
+      date : "June 2020"
+      category : "Business"
+
+    # portfolio item loop
+    - name : "Detail1"
+      image : "images/portfolio/detail1.png"
+      date : "Oct 2020"
+      category : "Details"      
+
+    # portfolio item loop
+    - name : "Detail2"
+      image : "images/portfolio/detail2.png"
+      date : "Oct 2020"
+      category : "Details"  
+
+    # portfolio item loop
+    - name : "Detail3"
+      image : "images/portfolio/detail3.png"
+      date : "Oct 2020"
+      category : "Details"  
+
+    # portfolio item loop
+    - name : "Detail4"
+      image : "images/portfolio/detail4.png"
+      date : "Oct 2020"
+      category : "Details"  
 
 ################################# Testimonial #########################33
 testimonial:
-  enable : false
+  enable : true
   title : "TESTIMONIALS"
   testimonial_slider:
     # slider item loop
-    - name : "Micheal Clark"
+    - name : "A client from New York"
       image : "images/clients/client1.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      designation : "U.S."
+      content : "I trust you and I would like you to have the final say on this, so I am going to figure out a way to add a third step Proofreading so you can make those changes. 
+      I can't remember if you have that as one of your services, if not, could you add it?"
                 
     # slider item loop
-    - name : "Peter Parker"
+    - name : "A client from Budapest"
       image : "images/clients/client2.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      designation : "Hungary"
+      content : "Trust was never an issue with you. Just did not want to kill you with these deadlines. Thank you a lot for your professional, fast and very kind communication."
                 
     # slider item loop
-    - name : "Jessica Jones"
+    - name : "A Client from"
       image : "images/clients/client3.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      designation : "Smartcat"
+      content : "Fanna goes above and beyond to make sure the end result is as accurate as possible. Great person to work with. I will continue to reach out to her for all our Chinese translations."
 
 
 ######################### funfacts #############################3
