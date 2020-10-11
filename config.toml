@@ -80,8 +80,8 @@ weight = 6
 
 #################### default parameters ################################
 [params]
-logo_light = "https://fanmu114.github.io/Transfanna/images/logo.png"
-logo_dark = "https://fanmu114.github.io/Transfanna/images/logo-dark.png"
+logo_light = "images/logo.png"
+logo_dark = "images/logo-dark.png"
 # Meta data
 description = "This is meta description"
 author = "TransFanna"
@@ -106,7 +106,7 @@ link = "https://twitter.com/"
 
 [[params.social]]
 icon = "fa-weixin" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://fanmu114.github.io/Transfanna/images/portfolio/yongyou.png"
+link = "https://fanmu114.github.io/Transfanna/images/Wechat.png"
 
 [[params.social]]
 icon = "fa-weibo" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
