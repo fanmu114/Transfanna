@@ -6,7 +6,7 @@ hero:
   occupations:
     - "Freelance Translator"
     - "Interpreter"
-    - "Good Girl"
+    - "The person you can trust"
 
   # slider background image loop
   slider_image:
@@ -42,7 +42,7 @@ about:
 
   
   
-  Currently, I am a Pro translator (English<>Chinese) with Lionbridge Gengo (https://gengo.com/hire/profile/1266205/)."
+  Currently, I am a Pro translator (English<>Chinese) with Lionbridge Gengo."
   # button
   button:
     enable : true
@@ -138,98 +138,62 @@ call_to_action:
 
 ############################# portfolio ################################
 portfolio:
-  enable : false
+  enable : true
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item1.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    - name : "Gengo"
+      image : "images/portfolio/gengo.png"
+      date : "Mar 2020"
+      category : "Platform"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item2.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    - name : "Smartcat"
+      image : "images/portfolio/smartcat.png"
+      date : "Apr 2020"
+      category : "Platform"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item3.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    - name : "WWDC 2020"
+      image : "images/portfolio/wwdc2020.jpg"
+      date : "July 2020"
+      category : "IT"
+
+    # portfolio item loop
+    - name : "Yongyou"
+      image : "images/portfolio/yongyou.png"
+      date : "Mar 2018"
+      category : "IT"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item4.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    - name : "Monster <br> Dash"
+      image : "images/portfolio/monsterdash.jpg"
+      date : "Feb 2020"
+      category : "Games"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item5.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    - name : "Texas <br> hold'em"
+      image : "images/portfolio/Texasholdem.jpeg"
+      date : "Mar 2015"
+      category : "Games"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item6.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    - name : "Jetpack <br> Joyride"
+      image : "images/portfolio/JetpackJoyride.jpg"
+      date : "Feb 2019"
+      category : "Games"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item7.jpg"
+    - name : "Soul Seeker: <br> Six Knights"
+      image : "images/portfolio/SoulSeekerSixKnights.jpg"
       date : "Feb 2018"
-      category : "Graphics"
-      
+      category : "Games"
+
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item8.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item9.jpg"
-      date : "Feb 2018"
-      category : "Database"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item10.jpg"
-      date : "Feb 2018"
-      category : "Database"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item11.jpg"
-      date : "Feb 2018"
-      category : "Database"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item12.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item13.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item14.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item15.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
+    - name : "Fudan University Campus <br> in Budapest"
+      image : "images/portfolio/fudan.png"
+      date : Apr 2020"
+      category : "Business"
 
 
 ################################# Testimonial #########################33
@@ -238,25 +202,23 @@ testimonial:
   title : "TESTIMONIALS"
   testimonial_slider:
     # slider item loop
-    - name : "Micheal Clark"
+    - name : "A client from New York"
       image : "images/clients/client1.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dol2222or sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      designation : "U.S."
+      content : "I trust you and I would like you to have the final say on this, so I am going to figure out a way to add a third step Proofreading so you can make those changes. 
+      I can't remember if you have that as one of your services, if not, could you add it?"
                 
     # slider item loop
-    - name : "Peter Parker"
+    - name : "A client from Budapest"
       image : "images/clients/client2.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      designation : "Hungary"
+      content : "Trust was never an issue with you. Just did not want to kill you with these deadlines. Thank you a lot for your professional, fast and very kind communication."
                 
     # slider item loop
-    - name : "Jessica Jones"
+    - name : "A Client from"
       image : "images/clients/client3.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      designation : "Smartcat"
+      content : "Fanna goes above and beyond to make sure the end result is as accurate as possible. Great person to work with. I will continue to reach out to her for all our Chinese translations."
 
 
 ######################### funfacts #############################3
