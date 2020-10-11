@@ -192,9 +192,32 @@ portfolio:
     # portfolio item loop
     - name : "Fudan University Campus <br> in Budapest"
       image : "images/portfolio/fudan.png"
-      date : Apr 2020"
+      date : "June 2020"
       category : "Business"
 
+    # portfolio item loop
+    - name : "Detail1"
+      image : "images/portfolio/detail1.png"
+      date : "Oct 2020"
+      category : "Details"      
+
+    # portfolio item loop
+    - name : "Detail2"
+      image : "images/portfolio/detail2.png"
+      date : "Oct 2020"
+      category : "Details"  
+
+    # portfolio item loop
+    - name : "Detail3"
+      image : "images/portfolio/detail3.png"
+      date : "Oct 2020"
+      category : "Details"  
+
+    # portfolio item loop
+    - name : "Detail4"
+      image : "images/portfolio/detail4.png"
+      date : "Oct 2020"
+      category : "Details"  
 
 ################################# Testimonial #########################33
 testimonial:
