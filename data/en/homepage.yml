@@ -45,7 +45,7 @@ about:
   Currently, I am a Pro translator (English<>Chinese) with Lionbridge Gengo."
   # button
   button:
-    enable : true
+    enable : false
     label : "DOWNLOAD MY CV"
     link : "#" # you can put your cv in static folder and give the path here.
 
