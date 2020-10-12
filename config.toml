@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://fanmu114.github.io/Transfanna/"
+baseURL = "https://transfanna.vercel.app/"
 title = "TransFanna"
 theme = "somrat"
 # disable language
