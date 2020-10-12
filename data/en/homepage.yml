@@ -172,10 +172,10 @@ portfolio:
       category : "Games"
       
     # portfolio item loop
-    - #name : "Texas <br> hold'em"
-      #image : "images/portfolio/Texasholdem.jpeg"
-      #date : "Mar 2015"
-      #category : "Games"
+    - name : "Texas <br> hold'em"
+      image : "images/portfolio/Texasholdem.jpeg"
+      date : "Mar 2015"
+      category : "Games"
       
     # portfolio item loop
     - name : "Jetpack <br> Joyride"
