@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on TransFanna</title>
-    <link>https://fanmu114.github.io/Transfanna/cn/categories/</link>
+    <link>https://transfanna.vercel.app/cn/categories/</link>
     <description>Recent content in Categories on TransFanna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>Copyright &amp;copy; 2020 2020 TransFanna</copyright><atom:link href="https://fanmu114.github.io/Transfanna/cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 2020 TransFanna</copyright><atom:link href="https://transfanna.vercel.app/cn/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fanmu114.github.io/Transfanna/categories/</loc>
+    <loc>https://transfanna.vercel.app/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://fanmu114.github.io/Transfanna/cn/categories/"
+                href="https://transfanna.vercel.app/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fanmu114.github.io/Transfanna/categories/"
+                href="https://transfanna.vercel.app/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://fanmu114.github.io/Transfanna/tags/</loc>
+    <loc>https://transfanna.vercel.app/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://fanmu114.github.io/Transfanna/cn/tags/"
+                href="https://transfanna.vercel.app/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fanmu114.github.io/Transfanna/tags/"
+                href="https://transfanna.vercel.app/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://fanmu114.github.io/Transfanna/</loc>
+    <loc>https://transfanna.vercel.app/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://fanmu114.github.io/Transfanna/cn/"
+                href="https://transfanna.vercel.app/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fanmu114.github.io/Transfanna/"
+                href="https://transfanna.vercel.app/"
                 />
   </url>
   
